@@ -28,8 +28,8 @@ I'm a Web developer who is passionate about creating Laravel Apps.
 <br>
 <hr>
 
-[![Elsayed Kamal's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsayed85&langs_count=6&layout=compact))
-[![Elsayed Kamal's github stats](https://github-readme-stats.vercel.app/api?username=elsayed85&hide=prs&count_private=true&show_icons=true))
+[![Elsayed Kamal's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsayed85&langs_count=6&layout=compact)](#)
+[![Elsayed Kamal's github stats](https://github-readme-stats.vercel.app/api?username=elsayed85&hide=prs&count_private=true&show_icons=true)](#)
 
 <br>
 <hr>
