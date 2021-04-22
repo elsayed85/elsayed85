@@ -28,6 +28,11 @@ I'm a Web developer who is passionate about creating Laravel Apps.
 <br>
 <hr>
 
+[![Elsayed Kamal's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elsayed85&langs_count=6&layout=compact)]
+
+<br>
+<hr>
+
 ### 📺 Latest YouTube Videos
 - [Laravel Rest Api PlayList](https://www.youtube.com/watch?v=UlnipC5umxY&list=PLAfOI2f7V2Gns8rl2GWfTxXe4-GPu8O9j)
 - [Laravel In Arabic Course](https://www.youtube.com/watch?v=LkDv7phYs44&list=PLAfOI2f7V2GmaZZl3dc-t4VV8K5Tf5kSh)
@@ -37,12 +42,5 @@ I'm a Web developer who is passionate about creating Laravel Apps.
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCUvdnGjHDTPp2cvDRuElPIw)
 
-<br>
-<hr>
-
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="The Night King Nusic" width="350" />](https://open.spotify.com/track/1aDklx1GaBqHFowCzz63wU?si=0eef0e325a364bf7)
 
 ![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif)
