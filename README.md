@@ -1,48 +1,25 @@
-### Hi I'm El-Sayed 👋 👨🏻‍💻
+<h1 align="center">Hi 👋, I'm Elsayed Kamal</h1>
+<h3 align="center">A passionate Laravel developer from Egypt</h3>
 
-[![twitter badge](https://img.shields.io/badge/twitter-@el_sayed85-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/el_sayed85)
-[![Youtube badge]( https://img.shields.io/youtube/channel/subscribers/UCUvdnGjHDTPp2cvDRuElPIw?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUvdnGjHDTPp2cvDRuElPIw)
-[![linkedin badge](https://img.shields.io/badge/linkedin-elsayed85-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/elsayed85)
-[![facebook badge](https://img.shields.io/badge/facebook-elsayed.k.mohamed-&1877F2?style=flat&logo=facebook&logoColor=white&color=1877F2)](https://www.facebook.com/elsayed.k.mohamed)
-[![Elsayed Kamal's DEV Profile](https://img.shields.io/badge/dev.to-elsayed85-&1877F2?style=flat&logo=dev.to&logoColor=white&color=0A0A0A)](https://dev.to/elsayed85)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elsayed85&label=Profile%20views&color=0e75b6&style=flat" alt="elsayed85" /> </p>
 
-I'm A Web developer Who Is Passionate About Creating Laravel Apps.
+<p align="left"> <a href="https://twitter.com/el_sayed85" target="blank"><img src="https://img.shields.io/twitter/follow/el_sayed85?logo=twitter&style=for-the-badge" alt="el_sayed85" /></a> </p>
 
-### Languages and Tools:
-  <!-- start tools and languages -->
-  <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img align="left" alt="JavaScript" width="35px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-  <img align="left" alt="bootstrap" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-  <img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-  <img align="left" alt="Vue" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-  <img align="left" alt="livewire" width="35px" src="https://avatars.githubusercontent.com/u/51960834?s=200&v=4" />
-  <img align="left" alt="Jquery" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
-  <img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-  <img align="left" alt="Jquery" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-  <img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-  <img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-  <img align="left" alt="Laravel" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
+- 🌱 I’m currently learning **Laravel New Features .. also DevOps**
 
+- 📫 How to reach me **fb.com/elsayed.k.mohamed**
 
-<br>
-<hr>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/el_sayed85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="el_sayed85" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/elsayed85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elsayed85" height="30" width="40" /></a>
+<a href="https://fb.com/elsayed.k.mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elsayed.k.mohamed" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucuvdngjhdtpp2cvdruelpiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucuvdngjhdtpp2cvdruelpiw" height="30" width="40" /></a>
+</p>
 
-[![Elsayed Kamal's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsayed85&langs_count=6&layout=compact)](#)
-[![Elsayed Kamal's github stats](https://github-readme-stats.vercel.app/api?username=elsayed85&hide=prs&count_private=true&show_icons=true)](#)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-<br>
-<hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elsayed85&show_icons=true&locale=en&layout=compact" alt="elsayed85" /></p>
 
-### 📺 Latest YouTube Videos
-- [Laravel Rest Api PlayList](https://www.youtube.com/watch?v=UlnipC5umxY&list=PLAfOI2f7V2Gns8rl2GWfTxXe4-GPu8O9j)
-- [Laravel In Arabic Course](https://www.youtube.com/watch?v=LkDv7phYs44&list=PLAfOI2f7V2GmaZZl3dc-t4VV8K5Tf5kSh)
-- [IOT System Using Laravel Websockets](https://www.youtube.com/watch?v=4oar_hJT-QI)
-- [Quran App Using Laravel](https://www.youtube.com/watch?v=_jW3beDxppA)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCUvdnGjHDTPp2cvDRuElPIw)
-
-
-![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elsayed85&show_icons=true&locale=en" alt="elsayed85" /></p>
