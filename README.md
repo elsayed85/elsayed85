@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elsayed Kamal</h1>
 <h3 align="center">A passionate Laravel developer from Egypt</h3>
 
-(![Elsayed Kamal's card name](https://cardivo.vercel.app/api?name=Elsayed%20Kamal&description=Software%20Developer&image=https://avatars.githubusercontent.com/u/41492621?v=4&backgroundColor=%23ecf0f1&linkedin=elsayed85&github=elsayed85&twitter=el_sayed85&pattern=texture&colorPattern=%23eaeaea)
-)
+
+![Elsayed Kamal's card name](https://cardivo.vercel.app/api?name=Elsayed%20Kamal&description=Software%20Developer&image=https://avatars.githubusercontent.com/u/41492621?v=4&backgroundColor=%23ecf0f1&linkedin=elsayed85&github=elsayed85&twitter=el_sayed85&pattern=texture&colorPattern=%23eaeaea)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elsayed85&label=Profile%20views&color=0e75b6&style=flat" alt="elsayed85" /> </p>
