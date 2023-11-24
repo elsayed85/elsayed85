@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elsayed Kamal</h1>
-<h3 align="center">A passionate Laravel developer from Egypt</h3>
+<h3 align="center">A passionate Software developer from Egypt</h3>
 
 
 ![Elsayed Kamal's card name](https://cardivo.vercel.app/api?name=Elsayed%20Kamal&description=Software%20Developer&image=https://avatars.githubusercontent.com/u/41492621?v=4&backgroundColor=%23ecf0f1&linkedin=elsayed85&github=elsayed85&twitter=el_sayed85&pattern=texture&colorPattern=%23eaeaea)
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/el_sayed85" target="blank"><img src="https://img.shields.io/twitter/follow/el_sayed85?logo=twitter&style=for-the-badge" alt="el_sayed85" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel New Features .. also DevOps**
+- 🌱 I’m currently learning **DevOps** Tools , Also Go Lang
 
 - 📫 How to reach me **fb.com/elsayed.k.mohamed**
 
