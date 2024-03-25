@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/el_sayed85" target="blank"><img src="https://img.shields.io/twitter/follow/el_sayed85?logo=twitter&style=for-the-badge" alt="el_sayed85" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps** Tools , Also Go Lang
+- 🌱 Let's Build Something Together
 
 - 📫 How to reach me **fb.com/elsayed.k.mohamed**
 
