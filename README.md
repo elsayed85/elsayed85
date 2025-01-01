@@ -59,3 +59,9 @@ I am a **Senior Backend Engineer** with over 5 years of experience in building a
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=elsayed85&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
