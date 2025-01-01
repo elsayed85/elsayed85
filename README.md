@@ -6,6 +6,12 @@
 ### 👨‍💻 About Me  
 I am a **Senior Backend Engineer** with over 5 years of experience in building and optimizing high-performance, scalable systems. My expertise lies in **PHP (Laravel)** and **microservice architecture**, delivering robust and maintainable backend solutions.
 
+---
+
+### 📄 [Download My CV](https://github.com/elsayed85/elsayed85/blob/master/Elsayed-Kamal-CV.pdf)
+
+---
+
 💡 **Core Focus Areas**:  
 - **Scalable Systems**: Efficiently implementing microservices using **Redis**, **Docker**, **AWS**, **Kafka**, **RabbitMQ**  
 - **Databases**: Advanced usage of **MySQL**, **MongoDB**, **Elasticsearch**, **Couchbase**  
