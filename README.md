@@ -63,6 +63,9 @@ I'm a **Senior Backend Engineer** who builds scalable, real-time, and intelligen
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-e67e22?style=flat)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
 ![Redis Vector Store](https://img.shields.io/badge/Redis%20Vector%20Store-DC382D?logo=redis&logoColor=white&style=flat)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-2f3640?style=flat)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-718093?style=flat)
 
 ---
 
@@ -74,7 +77,7 @@ I'm a **Senior Backend Engineer** who builds scalable, real-time, and intelligen
 ![Couchbase](https://img.shields.io/badge/Couchbase-EE1F23?logo=couchbase&logoColor=white&style=flat)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=flat)
 ![Qdrant](https://img.shields.io/badge/Qdrant-4e9a06?style=flat)
-
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat)
 ---
 
 ### 🧰 Developer Tools
