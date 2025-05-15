@@ -59,7 +59,6 @@ I'm a **Senior Backend Engineer** who builds scalable, real-time, and intelligen
 ![OCR](https://img.shields.io/badge/OCR-34495e?style=flat)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-1abc9c?style=flat)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-e67e22?style=flat)
-![Semantic Search](https://img.shields.io/badge/Semantic%20Search-718093?style=flat)
 
 ---
 
@@ -82,7 +81,6 @@ I'm a **Senior Backend Engineer** who builds scalable, real-time, and intelligen
 ![Mongo Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?logo=mongodb&logoColor=white&style=flat)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?logo=github&logoColor=white&style=flat)
 ![Cursor](https://img.shields.io/badge/Cursor-2E3440?style=flat)
-![Warp](https://img.shields.io/badge/Warp-1F1F1F?style=flat)
 ![Sentry](https://img.shields.io/badge/Sentry-362d59?logo=sentry&logoColor=white&style=flat)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=flat)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat)
