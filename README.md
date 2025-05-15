@@ -56,13 +56,9 @@ I'm a **Senior Backend Engineer** who builds scalable, real-time, and intelligen
 ![RAG](https://img.shields.io/badge/RAG-8e44ad?style=flat)
 ![Embeddings](https://img.shields.io/badge/Embeddings-2c3e50?style=flat)
 ![Agents](https://img.shields.io/badge/Agents-3c8dbc?style=flat)
-![NLP Pipelines](https://img.shields.io/badge/NLP%20Pipelines-9b59b6?style=flat)
 ![OCR](https://img.shields.io/badge/OCR-34495e?style=flat)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-1abc9c?style=flat)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-e67e22?style=flat)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
-![Redis Vector Store](https://img.shields.io/badge/Redis%20Vector%20Store-DC382D?logo=redis&logoColor=white&style=flat)
-![Vector Search](https://img.shields.io/badge/Vector%20Search-2f3640?style=flat)
 ![Semantic Search](https://img.shields.io/badge/Semantic%20Search-718093?style=flat)
 
 ---
@@ -87,12 +83,10 @@ I'm a **Senior Backend Engineer** who builds scalable, real-time, and intelligen
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?logo=github&logoColor=white&style=flat)
 ![Cursor](https://img.shields.io/badge/Cursor-2E3440?style=flat)
 ![Warp](https://img.shields.io/badge/Warp-1F1F1F?style=flat)
-![Fig](https://img.shields.io/badge/Fig-3e3e3e?style=flat)
 ![Sentry](https://img.shields.io/badge/Sentry-362d59?logo=sentry&logoColor=white&style=flat)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=flat)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=flat)
 
 ---
 
