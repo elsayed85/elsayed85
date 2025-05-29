@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="/Elsayed-Kamal-CV.pdf" download>
+  <a href="/Elsayed-Kamal-CV_.pdf" download>
     <img src="https://img.shields.io/badge/📄 Download%20CV-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
   </a>
 </p>
