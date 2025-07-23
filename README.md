@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elsayed Kamal</h1>
 <h3 align="center">
-  Senior Backend Engineer | Go | Python | PHP | Scalable Systems | AI  
+  Senior Backend-AI Engineer | Go | Python | PHP | Scalable Systems | AI  
   <br/>📍 Based in Egypt | ✈️ Open to Relocation
 </h3>
 
